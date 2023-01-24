@@ -1,0 +1,41 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: None;
+ }
+
+ nav ul li{
+   display: inline-block;
+   border: solid;
+   border-color: black;
+   border-radius: 40px;
+   font-size: 25px;
+   background-color: aqua;
+   padding: 25px;
+   text-align: left;
+ }
+
+ p{
+   text-align: center;
+   background-color: aqua;
+   opacity: 50%;
+ }
+
+ img{
+   width: 24%;
+   padding: 15px;
+   border: solid 5px black;
+   margin: 0;
+ }
+ 
